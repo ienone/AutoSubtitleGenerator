@@ -11,6 +11,9 @@
 ## ⚠️WARNING
 **项目还没完成,最后的main函数还没写**
 
+## 📺 效果演示
+<https://github.com/user-attachments/assets/0139c793-3a5b-4735-95f7-c95b72a4c7c2>
+未经手动处理修正别的字幕效果
 
 ## ✨ 项目特性
 
